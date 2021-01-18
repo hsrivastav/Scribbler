@@ -6,7 +6,7 @@ var create_post_button = document.getElementById("posts-create-post")
 
 /**
  * This function is called when create post button is clicked.
- */   
+ */
 create_post_button.onclick = function() {
     toggleCreatePostModal();
 }

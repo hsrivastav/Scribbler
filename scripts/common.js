@@ -11,7 +11,7 @@ var signin_button = document.getElementById("header-button-sign-in");
 
 var signin_anchor = document.getElementById("signin-href");
 
-/** 
+/**
  * This function is called when sign up of the header is clicked.
  */
 signup_button.onclick = function() {
